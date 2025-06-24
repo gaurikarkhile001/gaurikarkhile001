@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Gauri Ramesh Karkhile
 
-🎓 Final Year CSE (AIML) Student at VIIT Pune  
+🎓 Final Year CSE Student at VIIT Pune  
 ☁️ Aspiring Cloud & DevOps Engineer
 💻 Passionate about solving real-world problems using cloud-native technologies
 

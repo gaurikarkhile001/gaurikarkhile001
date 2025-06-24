@@ -28,9 +28,9 @@
 
 ## 📫 Let's Connect
 
-- 🌐 [gaurikarkhile.me](https://gaurikarkhile.me) *(if deployed)*  
-- 💼 [LinkedIn](https://www.linkedin.com/in/gauri-karkhile/)  
-- 💌 Email: gaurikarkhile001@gmail.com  
+- 🌐 [gaurikarkhile.me]([https://gaurikarkhile.me](https://gaurikarkhile.netlify.app/)) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/gauri-karkhile-60b4a3258/)  
+- 💌 Email: gaurikarkhile1@gmail.com  
 - 📁 [My Projects](https://github.com/gaurikarkhile001?tab=repositories)
 
 ---
